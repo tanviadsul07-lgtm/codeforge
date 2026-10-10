@@ -1,0 +1,324 @@
+{
+  "success": true,
+  "hazardCount": 7,
+  "skippedSeconds": 4,
+  "modelDetails": {
+    "name": "YOLOv8 Pothole Detector",
+    "repository": "samdutse/pothole-yolov8",
+    "supportedClasses": [
+      "Pothole"
+    ]
+  },
+  "features": [
+    {
+      "id": "HZ-2026-AI-001",
+      "hazardId": "HZ-2026-AI-001",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.838,
+      "seenCount": 23,
+      "videoTimestamp": "00:01",
+      "timeSec": 1.3,
+      "latitude": 18.46576109816532,
+      "longitude": 73.83594276079748,
+      "evidenceImageFileName": "evidence_001.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_001.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-002",
+      "hazardId": "HZ-2026-AI-002",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.529,
+      "seenCount": 1,
+      "videoTimestamp": "00:03",
+      "timeSec": 4.0,
+      "latitude": 18.46570341242528,
+      "longitude": 73.83595632782088,
+      "evidenceImageFileName": "evidence_002.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_002.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-003",
+      "hazardId": "HZ-2026-AI-003",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Low",
+      "confidence": 0.369,
+      "seenCount": 3,
+      "videoTimestamp": "00:08",
+      "timeSec": 8.3,
+      "latitude": 18.465878765249037,
+      "longitude": 73.83591877991962,
+      "evidenceImageFileName": "evidence_003.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_003.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-004",
+      "hazardId": "HZ-2026-AI-004",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.818,
+      "seenCount": 38,
+      "videoTimestamp": "00:13",
+      "timeSec": 13.3,
+      "latitude": 18.46549468928196,
+      "longitude": 73.8358749446488,
+      "evidenceImageFileName": "evidence_004.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_004.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-005",
+      "hazardId": "HZ-2026-AI-005",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.476,
+      "seenCount": 2,
+      "videoTimestamp": "00:14",
+      "timeSec": 14.7,
+      "latitude": 18.465598471599733,
+      "longitude": 73.83591149669398,
+      "evidenceImageFileName": "evidence_005.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_005.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-006",
+      "hazardId": "HZ-2026-AI-006",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Medium",
+      "confidence": 0.514,
+      "seenCount": 3,
+      "videoTimestamp": "00:20",
+      "timeSec": 20.7,
+      "latitude": 18.465372927114142,
+      "longitude": 73.83582599429856,
+      "evidenceImageFileName": "evidence_006.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_006.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-007",
+      "hazardId": "HZ-2026-AI-007",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Low",
+      "confidence": 0.326,
+      "seenCount": 2,
+      "videoTimestamp": "00:27",
+      "timeSec": 27.3,
+      "latitude": 18.46534317826938,
+      "longitude": 73.83583094189089,
+      "evidenceImageFileName": "evidence_007.jpg",
+      "evidenceImagePath": "scratch/test_evidence\\evidence_007.jpg"
+    }
+  ],
+  "route": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              73.83594516,
+              18.46566745
+            ],
+            [
+              73.83594515,
+              18.46566747
+            ],
+            [
+              73.83594513,
+              18.46566747
+            ],
+            [
+              73.83594511,
+              18.46566748
+            ],
+            [
+              73.83594492,
+              18.46566689
+            ],
+            [
+              73.83594194,
+              18.46566466
+            ],
+            [
+              73.8359382,
+              18.46566281
+            ],
+            [
+              73.83593654,
+              18.46566356
+            ],
+            [
+              73.83593458,
+              18.46566101
+            ],
+            [
+              73.83593311,
+              18.46565998
+            ],
+            [
+              73.83593222,
+              18.46565931
+            ],
+            [
+              73.83593184,
+              18.46565899
+            ],
+            [
+              73.83593072,
+              18.46565612
+            ],
+            [
+              73.83593112,
+              18.46564916
+            ],
+            [
+              73.83592991,
+              18.46563864
+            ],
+            [
+              73.83592592,
+              18.4656316
+            ],
+            [
+              73.83592097,
+              18.46562642
+            ],
+            [
+              73.83591551,
+              18.46561609
+            ],
+            [
+              73.8359098,
+              18.46560694
+            ],
+            [
+              73.83590431,
+              18.46559844
+            ],
+            [
+              73.83589927,
+              18.46558645
+            ],
+            [
+              73.8358952,
+              18.46557314
+            ],
+            [
+              73.83589206,
+              18.46556218
+            ],
+            [
+              73.83588858,
+              18.46555208
+            ],
+            [
+              73.83588481,
+              18.46554224
+            ],
+            [
+              73.83588174,
+              18.46553463
+            ],
+            [
+              73.83587945,
+              18.46552746
+            ],
+            [
+              73.83587755,
+              18.4655188
+            ],
+            [
+              73.83587666,
+              18.46550691
+            ],
+            [
+              73.83587628,
+              18.46549727
+            ],
+            [
+              73.83587706,
+              18.46549216
+            ],
+            [
+              73.83587787,
+              18.4654874
+            ],
+            [
+              73.83587582,
+              18.46548014
+            ],
+            [
+              73.83587473,
+              18.46547177
+            ],
+            [
+              73.83587372,
+              18.46546021
+            ],
+            [
+              73.83587211,
+              18.46544573
+            ],
+            [
+              73.83587076,
+              18.46543143
+            ],
+            [
+              73.83587069,
+              18.46541828
+            ],
+            [
+              73.83587083,
+              18.46540515
+            ],
+            [
+              73.83587069,
+              18.46539295
+            ],
+            [
+              73.83587085,
+              18.46538089
+            ],
+            [
+              73.83587219,
+              18.46537003
+            ],
+            [
+              73.83587538,
+              18.46536061
+            ],
+            [
+              73.83588263,
+              18.46535419
+            ],
+            [
+              73.83589287,
+              18.46535193
+            ],
+            [
+              73.83590418,
+              18.46535358
+            ],
+            [
+              73.83591406,
+              18.46535865
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Vehicular Inspection Route Trajectory",
+          "pointsCount": 47
+        }
+      }
+    ]
+  }
+}

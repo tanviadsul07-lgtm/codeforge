@@ -1,0 +1,91 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Authentication Helper Functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function getUserData() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data;
+    }
+
+    function hasRole(role) {
+      return isAuthenticated() && (
+        (request.auth.token.role == role) ||
+        (getUserData() != null && getUserData().role == role)
+      );
+    }
+
+    function isFieldOperator() {
+      return hasRole('FIELD_OPERATOR');
+    }
+
+    function isRoadDepartment() {
+      return hasRole('ROAD_DEPARTMENT');
+    }
+
+    // Users Collection Rules
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      // Public registrations are restricted to CITIZEN role only
+      allow create: if isOwner(userId) && request.resource.data.role == 'CITIZEN';
+      // Users cannot elevate their own role or accountStatus
+      allow update: if isOwner(userId) && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role', 'accountStatus']);
+    }
+
+    // Road Reports Collection Rules
+    match /roadReports/{reportId} {
+      allow read: if isAuthenticated();
+      
+      // Citizen Report Creation: Must match authenticated UID, initial status 'Submitted', 'Pending' verification
+      allow create: if isAuthenticated() 
+        && request.resource.data.reporterUid == request.auth.uid
+        && request.resource.data.status == 'Submitted'
+        && request.resource.data.verificationStatus == 'Pending';
+
+      // Updates: Authorized department/operator can verify/assign work orders. Citizens can update descriptions/media only.
+      allow update: if isRoadDepartment() || isFieldOperator() || (
+        isOwner(resource.data.reporterUid) 
+        && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['verificationStatus', 'assignedDepartment', 'assignedTeam', 'workOrderId', 'status'])
+      );
+
+      allow delete: if false;
+    }
+
+    // Media Assets Collection Rules
+    match /mediaAssets/{assetId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated() && request.resource.data.ownerUid == request.auth.uid;
+      allow update: if isAuthenticated() && resource.data.ownerUid == request.auth.uid;
+      allow delete: if false;
+    }
+
+    // Hazards Collection Rules
+    match /hazards/{hazardId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated();
+      allow update: if isRoadDepartment() || isFieldOperator();
+      allow delete: if false;
+    }
+
+    // Work Orders Collection Rules
+    match /workOrders/{workOrderId} {
+      allow read: if isAuthenticated();
+      allow create: if isRoadDepartment();
+      allow update: if isRoadDepartment() || isFieldOperator();
+      allow delete: if false;
+    }
+
+    // Notifications Collection Rules
+    match /notifications/{notificationId} {
+      allow read: if isAuthenticated();
+      allow create, update: if isAuthenticated();
+    }
+  }
+}

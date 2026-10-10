@@ -1,0 +1,2752 @@
+[
+  [
+    "ASET-2026-00001",
+    {
+      "reportId": "ASET-2026-00001",
+      "id": "ASET-2026-00001",
+      "reporterUid": "test-citizen-1791574507636",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791574507636",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-09T19:35:07.825Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-09T19:35:07.841Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-09T19:35:07.843Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T19:35:07.846Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T19:35:07.848Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-09T19:35:07.851Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-09T19:35:07.859Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-09T19:35:07.825Z",
+      "updatedAt": "2026-10-09T19:35:07.859Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-09T19:35:07.859Z"
+    }
+  ],
+  [
+    "ASET-2026-00002",
+    {
+      "reportId": "ASET-2026-00002",
+      "id": "ASET-2026-00002",
+      "reporterUid": "test-citizen-1791574553788",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791574553788",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-09T19:35:53.825Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-09T19:35:53.835Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-09T19:35:53.838Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T19:35:53.844Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T19:35:53.847Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-09T19:35:53.849Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-09T19:35:53.854Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-09T19:35:53.825Z",
+      "updatedAt": "2026-10-09T19:35:53.854Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-09T19:35:53.854Z"
+    }
+  ],
+  [
+    "ASET-2026-00003",
+    {
+      "reportId": "ASET-2026-00003",
+      "id": "ASET-2026-00003",
+      "reporterUid": "test-citizen-1791576352814",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791576352814",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-09T20:05:52.874Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-09T20:05:52.888Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-09T20:05:52.892Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T20:05:52.896Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T20:05:52.900Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-09T20:05:52.903Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-09T20:05:52.913Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-09T20:05:52.874Z",
+      "updatedAt": "2026-10-09T20:05:52.913Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-09T20:05:52.913Z"
+    }
+  ],
+  [
+    "ASET-2026-00004",
+    {
+      "reportId": "ASET-2026-00004",
+      "id": "ASET-2026-00004",
+      "reporterUid": "test-citizen-1791576975106",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791576975106",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-09T20:16:15.149Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-09T20:16:15.169Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-09T20:16:15.174Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T20:16:15.180Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-09T20:16:15.185Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-09T20:16:15.190Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-09T20:16:15.199Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-09T20:16:15.149Z",
+      "updatedAt": "2026-10-09T20:16:15.199Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-09T20:16:15.199Z"
+    }
+  ],
+  [
+    "ASET-2026-00005",
+    {
+      "reportId": "ASET-2026-00005",
+      "id": "ASET-2026-00005",
+      "scanSessionId": "SCAN-2026-00001",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00001-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T00:55:37.135Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00001.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T00:55:37.135Z",
+      "updatedAt": "2026-10-10T00:55:37.135Z"
+    }
+  ],
+  [
+    "ASET-2026-00006",
+    {
+      "reportId": "ASET-2026-00006",
+      "id": "ASET-2026-00006",
+      "reporterUid": "test-citizen-1791593743070",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791593743070",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T00:55:43.126Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T00:55:43.149Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T00:55:43.154Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T00:55:43.159Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T00:55:43.163Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T00:55:43.168Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T00:55:43.177Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T00:55:43.126Z",
+      "updatedAt": "2026-10-10T00:55:43.177Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T00:55:43.177Z"
+    }
+  ],
+  [
+    "ASET-2026-00007",
+    {
+      "reportId": "ASET-2026-00007",
+      "id": "ASET-2026-00007",
+      "scanSessionId": "SCAN-2026-00002",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00002-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T00:56:27.571Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00002.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T00:56:27.571Z",
+      "updatedAt": "2026-10-10T00:56:27.571Z"
+    }
+  ],
+  [
+    "ASET-2026-00008",
+    {
+      "reportId": "ASET-2026-00008",
+      "id": "ASET-2026-00008",
+      "reporterUid": "test-citizen-1791593795104",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791593795104",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T00:56:35.153Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T00:56:35.185Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T00:56:35.191Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T00:56:35.197Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T00:56:35.204Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T00:56:35.210Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T00:56:35.224Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T00:56:35.153Z",
+      "updatedAt": "2026-10-10T00:56:35.224Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T00:56:35.224Z"
+    }
+  ],
+  [
+    "ASET-2026-00009",
+    {
+      "reportId": "ASET-2026-00009",
+      "id": "ASET-2026-00009",
+      "reporterUid": "test-citizen-1791594356592",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791594356592",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:05:56.639Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T01:05:56.658Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T01:05:56.662Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:05:56.667Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:05:56.671Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T01:05:56.675Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T01:05:56.683Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T01:05:56.639Z",
+      "updatedAt": "2026-10-10T01:05:56.683Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T01:05:56.683Z"
+    }
+  ],
+  [
+    "ASET-2026-00010",
+    {
+      "reportId": "ASET-2026-00010",
+      "id": "ASET-2026-00010",
+      "scanSessionId": "SCAN-2026-00003",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00003-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:06:03.415Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00003.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:06:03.415Z",
+      "updatedAt": "2026-10-10T01:06:03.415Z"
+    }
+  ],
+  [
+    "ASET-2026-00011",
+    {
+      "reportId": "ASET-2026-00011",
+      "id": "ASET-2026-00011",
+      "scanSessionId": "SCAN-2026-00004",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00004-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:35:37.603Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00004.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:35:37.603Z",
+      "updatedAt": "2026-10-10T01:35:37.603Z"
+    }
+  ],
+  [
+    "ASET-2026-00012",
+    {
+      "reportId": "ASET-2026-00012",
+      "id": "ASET-2026-00012",
+      "reporterUid": "test-citizen-1791596153456",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791596153456",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:35:53.506Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T01:35:53.525Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T01:35:53.528Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:35:53.532Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:35:53.537Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T01:35:53.541Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T01:35:53.554Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T01:35:53.506Z",
+      "updatedAt": "2026-10-10T01:35:53.554Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T01:35:53.554Z"
+    }
+  ],
+  [
+    "ASET-2026-00013",
+    {
+      "reportId": "ASET-2026-00013",
+      "id": "ASET-2026-00013",
+      "scanSessionId": "SCAN-2026-00005",
+      "reporterUid": "vpvDlkwcTNSzKi8spoa1JnHD5kB2",
+      "category": "Rutting Defect",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00005. 4 unique hazards identified.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 21.361403,
+      "longitude": 74.877576,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "vpvDlkwcTNSzKi8spoa1JnHD5kB2",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Demo)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00005/evidence/frame_1791596193120_47.jpg",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00005-001",
+        "HZ-LIVE-00005-002",
+        "HZ-LIVE-00005-003",
+        "HZ-LIVE-00005-004"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:36:57.365Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00005.",
+          "actorName": "Vikram Malhotra (Field Operator Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:36:57.365Z",
+      "updatedAt": "2026-10-10T01:36:57.365Z"
+    }
+  ],
+  [
+    "ASET-2026-00014",
+    {
+      "reportId": "ASET-2026-00014",
+      "id": "ASET-2026-00014",
+      "scanSessionId": "SCAN-2026-00006",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Alligator Cracking",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00006. 4 unique hazards identified.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 18.464776199999996,
+      "longitude": 73.8362088,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00006/evidence/frame_1791596462340_42.jpg",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00006-001",
+        "HZ-LIVE-00006-002",
+        "HZ-LIVE-00006-003",
+        "HZ-LIVE-00006-004"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:41:54.632Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00006.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:41:54.632Z",
+      "updatedAt": "2026-10-10T01:41:54.632Z"
+    }
+  ],
+  [
+    "ASET-2026-00015",
+    {
+      "reportId": "ASET-2026-00015",
+      "id": "ASET-2026-00015",
+      "scanSessionId": "SCAN-2026-00007",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "attachedHazardIds": [
+        "HZ-LIVE-00007-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:43:12.298Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00007.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:43:12.298Z",
+      "updatedAt": "2026-10-10T01:43:12.298Z"
+    }
+  ],
+  [
+    "ASET-2026-00016",
+    {
+      "reportId": "ASET-2026-00016",
+      "id": "ASET-2026-00016",
+      "reporterUid": "test-citizen-1791596597544",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791596597544",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:43:17.594Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T01:43:17.613Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T01:43:17.617Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:43:17.622Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:43:17.627Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T01:43:17.632Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T01:43:17.642Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T01:43:17.594Z",
+      "updatedAt": "2026-10-10T01:43:17.642Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T01:43:17.642Z"
+    }
+  ],
+  [
+    "ASET-2026-00017",
+    {
+      "reportId": "ASET-2026-00017",
+      "id": "ASET-2026-00017",
+      "scanSessionId": "SCAN-2026-00009",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "High",
+      "priority": "High",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00009-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:47:05.814Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00009.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:47:05.814Z",
+      "updatedAt": "2026-10-10T01:47:05.814Z"
+    }
+  ],
+  [
+    "ASET-2026-00018",
+    {
+      "reportId": "ASET-2026-00018",
+      "id": "ASET-2026-00018",
+      "reporterUid": "test-citizen-1791596830774",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791596830774",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:47:10.843Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T01:47:10.872Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T01:47:10.879Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:47:10.886Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:47:10.894Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T01:47:10.902Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T01:47:10.917Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T01:47:10.843Z",
+      "updatedAt": "2026-10-10T01:47:10.917Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T01:47:10.917Z"
+    }
+  ],
+  [
+    "ASET-2026-00019",
+    {
+      "reportId": "ASET-2026-00019",
+      "id": "ASET-2026-00019",
+      "scanSessionId": "SCAN-2026-00012",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00012-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:50:55.829Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00012.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:50:55.829Z",
+      "updatedAt": "2026-10-10T01:50:55.829Z"
+    }
+  ],
+  [
+    "ASET-2026-00020",
+    {
+      "reportId": "ASET-2026-00020",
+      "id": "ASET-2026-00020",
+      "reporterUid": "test-citizen-1791597062764",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791597062764",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:51:02.832Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T01:51:02.852Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T01:51:02.857Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:51:02.861Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:51:02.867Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T01:51:02.872Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T01:51:02.882Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T01:51:02.832Z",
+      "updatedAt": "2026-10-10T01:51:02.882Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T01:51:02.882Z"
+    }
+  ],
+  [
+    "ASET-2026-00021",
+    {
+      "reportId": "ASET-2026-00021",
+      "id": "ASET-2026-00021",
+      "scanSessionId": "SCAN-2026-00015",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00015-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:56:41.953Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00015.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T01:56:41.953Z",
+      "updatedAt": "2026-10-10T01:56:41.953Z"
+    }
+  ],
+  [
+    "ASET-2026-00022",
+    {
+      "reportId": "ASET-2026-00022",
+      "id": "ASET-2026-00022",
+      "reporterUid": "test-citizen-1791597408816",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791597408816",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T01:56:48.858Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T01:56:48.872Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T01:56:48.875Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:56:48.878Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T01:56:48.880Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T01:56:48.883Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T01:56:48.888Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T01:56:48.858Z",
+      "updatedAt": "2026-10-10T01:56:48.888Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T01:56:48.888Z"
+    }
+  ],
+  [
+    "ASET-2026-00023",
+    {
+      "reportId": "ASET-2026-00023",
+      "id": "ASET-2026-00023",
+      "scanSessionId": "SCAN-2026-00021",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00021-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:03:21.180Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00021.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T02:03:21.180Z",
+      "updatedAt": "2026-10-10T02:03:21.180Z"
+    }
+  ],
+  [
+    "ASET-2026-00024",
+    {
+      "reportId": "ASET-2026-00024",
+      "id": "ASET-2026-00024",
+      "reporterUid": "test-citizen-1791597842437",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791597842437",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:04:02.489Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T02:04:02.502Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T02:04:02.505Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:04:02.508Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:04:02.514Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T02:04:02.517Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T02:04:02.522Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T02:04:02.489Z",
+      "updatedAt": "2026-10-10T02:04:02.522Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T02:04:02.522Z"
+    }
+  ],
+  [
+    "ASET-2026-00025",
+    {
+      "reportId": "ASET-2026-00025",
+      "id": "ASET-2026-00025",
+      "scanSessionId": "SCAN-2026-00025",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00025-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:10:31.387Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00025.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T02:10:31.387Z",
+      "updatedAt": "2026-10-10T02:10:31.387Z"
+    }
+  ],
+  [
+    "ASET-2026-00026",
+    {
+      "reportId": "ASET-2026-00026",
+      "id": "ASET-2026-00026",
+      "reporterUid": "test-citizen-1791598247375",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791598247375",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:10:47.426Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T02:10:47.439Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T02:10:47.441Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:10:47.444Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:10:47.446Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T02:10:47.448Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T02:10:47.453Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T02:10:47.426Z",
+      "updatedAt": "2026-10-10T02:10:47.453Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T02:10:47.453Z"
+    }
+  ],
+  [
+    "ASET-2026-00027",
+    {
+      "reportId": "ASET-2026-00027",
+      "id": "ASET-2026-00027",
+      "scanSessionId": "SCAN-2026-00028",
+      "reporterUid": "test-operator-uid",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Mobile Camera Scan session.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 28.614,
+      "longitude": 77.2091,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "test-operator-uid",
+      "assignedOperatorName": "Vikram Malhotra (Field Operator Test)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00028-001"
+      ],
+      "submittedBy": "Vikram Malhotra (Field Operator Test)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:24:04.073Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00028.",
+          "actorName": "Vikram Malhotra (Field Operator Test)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T02:24:04.073Z",
+      "updatedAt": "2026-10-10T02:24:04.073Z"
+    }
+  ],
+  [
+    "ASET-2026-00028",
+    {
+      "reportId": "ASET-2026-00028",
+      "id": "ASET-2026-00028",
+      "reporterUid": "test-citizen-1791599574819",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791599574819",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:32:54.866Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T02:32:54.881Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T02:32:54.884Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:32:54.888Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:32:54.891Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T02:32:54.895Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T02:32:54.902Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T02:32:54.866Z",
+      "updatedAt": "2026-10-10T02:32:54.902Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T02:32:54.902Z"
+    }
+  ],
+  [
+    "ASET-2026-00029",
+    {
+      "reportId": "ASET-2026-00029",
+      "id": "ASET-2026-00029",
+      "reporterUid": "test-citizen-1791600549588",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791600549588",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:49:09.671Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T02:49:09.687Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T02:49:09.693Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:49:09.698Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:49:09.703Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T02:49:09.708Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T02:49:09.717Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T02:49:09.671Z",
+      "updatedAt": "2026-10-10T02:49:09.717Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T02:49:09.717Z"
+    }
+  ],
+  [
+    "ASET-2026-00030",
+    {
+      "reportId": "ASET-2026-00030",
+      "id": "ASET-2026-00030",
+      "reporterUid": "test-citizen-1791601072198",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791601072198",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:57:52.253Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T02:57:52.271Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T02:57:52.276Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:57:52.283Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T02:57:52.287Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T02:57:52.290Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T02:57:52.301Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T02:57:52.253Z",
+      "updatedAt": "2026-10-10T02:57:52.301Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T02:57:52.301Z"
+    }
+  ],
+  [
+    "ASET-2026-00031",
+    {
+      "reportId": "ASET-2026-00031",
+      "id": "ASET-2026-00031",
+      "scanSessionId": "SCAN-2026-00036",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Pothole (Severe)",
+      "description": "Road hazard complaint generated from Live GeoAI Scanner session SCAN-2026-00036. 6 unique hazards identified.",
+      "location": "Geotagged Carriageway Segment",
+      "latitude": 18.464413342387488,
+      "longitude": 73.83617591854453,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Pending Assignment",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00036/evidence/frame_1791601140235_23.jpg",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00036-001",
+        "HZ-LIVE-00036-002",
+        "HZ-LIVE-00036-003",
+        "HZ-LIVE-00036-004",
+        "HZ-LIVE-00036-005",
+        "HZ-LIVE-00036-006"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T02:59:41.407Z",
+          "note": "Complaint generated from Live GeoAI Mobile Camera Scan session SCAN-2026-00036.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T02:59:41.407Z",
+      "updatedAt": "2026-10-10T02:59:41.407Z"
+    }
+  ],
+  [
+    "ASET-2026-00032",
+    {
+      "reportId": "ASET-2026-00032",
+      "id": "ASET-2026-00032",
+      "reporterUid": "test-citizen-1791601605194",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791601605194",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T03:06:45.231Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T03:06:45.257Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T03:06:45.261Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T03:06:45.266Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T03:06:45.271Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T03:06:45.276Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T03:06:45.287Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T03:06:45.231Z",
+      "updatedAt": "2026-10-10T03:06:45.287Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T03:06:45.286Z"
+    }
+  ],
+  [
+    "ASET-2026-00033",
+    {
+      "reportId": "ASET-2026-00033",
+      "id": "ASET-2026-00033",
+      "scanSessionId": "SCAN-2026-00037",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Alligator Cracking",
+      "description": "Road hazard complaint generated from Live GeoAI Scanner session SCAN-2026-00037. 5 unique hazards identified.",
+      "location": "Carriageway Segment (18.4632, 73.8366)",
+      "latitude": 18.46322806971078,
+      "longitude": 73.83657545057928,
+      "severity": "Critical",
+      "priority": "Critical",
+      "dimensions": "81cm × 57cm × 14cm",
+      "volumeM3": 0.0646,
+      "estimatedCost": "₹6,900",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Rapid Repair Crew",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00037/evidence/frame_1791601664406_6.jpg",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00037-001",
+        "HZ-LIVE-00037-002",
+        "HZ-LIVE-00037-003",
+        "HZ-LIVE-00037-004",
+        "HZ-LIVE-00037-005"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T03:08:08.267Z",
+          "note": "Complaint generated from scan session SCAN-2026-00037. Dimensions: 81cm × 57cm × 14cm. Est Repair Cost: ₹6,900.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T03:08:08.267Z",
+      "updatedAt": "2026-10-10T03:08:08.267Z"
+    }
+  ],
+  [
+    "ASET-2026-00034",
+    {
+      "reportId": "ASET-2026-00034",
+      "id": "ASET-2026-00034",
+      "reporterUid": "test-citizen-1791602844840",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791602844840",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T03:27:24.876Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T03:27:24.892Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T03:27:24.900Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T03:27:24.906Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T03:27:24.913Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T03:27:24.920Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T03:27:24.932Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T03:27:24.876Z",
+      "updatedAt": "2026-10-10T03:27:24.932Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T03:27:24.932Z"
+    }
+  ],
+  [
+    "ASET-2026-00035",
+    {
+      "reportId": "ASET-2026-00035",
+      "id": "ASET-2026-00035",
+      "scanSessionId": "SCAN-2026-00041",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Alligator Cracking",
+      "description": "Road hazard complaint generated from Live GeoAI Scanner session SCAN-2026-00041. 4 unique hazards identified.",
+      "location": "Carriageway Segment (18.4646, 73.8359)",
+      "latitude": 18.464646724804993,
+      "longitude": 73.83589879656788,
+      "severity": "Critical",
+      "priority": "Critical",
+      "dimensions": "92cm × 54cm × 12cm",
+      "volumeM3": 0.0596,
+      "estimatedCost": "₹6,700",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Rapid Repair Crew",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00041/evidence/frame_1791604009522_8.jpg",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00041-001",
+        "HZ-LIVE-00041-002",
+        "HZ-LIVE-00041-003",
+        "HZ-LIVE-00041-004"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T03:47:01.876Z",
+          "note": "Complaint generated from scan session SCAN-2026-00041. Dimensions: 92cm × 54cm × 12cm. Est Repair Cost: ₹6,700.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T03:47:01.876Z",
+      "updatedAt": "2026-10-10T03:47:01.876Z"
+    }
+  ],
+  [
+    "ASET-2026-00036",
+    {
+      "reportId": "ASET-2026-00036",
+      "id": "ASET-2026-00036",
+      "scanSessionId": "SCAN-2026-00043",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Rutting Defect",
+      "description": "Road hazard complaint generated from Live GeoAI Scanner session SCAN-2026-00043. 6 unique hazards identified.",
+      "location": "Carriageway Segment (18.4649, 73.8358)",
+      "latitude": 18.4648766,
+      "longitude": 73.8358446,
+      "severity": "Critical",
+      "priority": "Critical",
+      "dimensions": "80cm × 55cm × 16cm",
+      "volumeM3": 0.0704,
+      "estimatedCost": "₹7,200",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Rapid Repair Crew",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00043/evidence/frame_1791604131465_1.jpg",
+      "evidenceVideo": null,
+      "mediaResourceType": "image",
+      "attachedHazardIds": [
+        "HZ-LIVE-00043-001",
+        "HZ-LIVE-00043-002",
+        "HZ-LIVE-00043-003",
+        "HZ-LIVE-00043-004",
+        "HZ-LIVE-00043-005",
+        "HZ-LIVE-00043-006"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T03:49:32.335Z",
+          "note": "Complaint generated from scan session SCAN-2026-00043. Dimensions: 80cm × 55cm × 16cm. Est Repair Cost: ₹7,200.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T03:49:32.335Z",
+      "updatedAt": "2026-10-10T03:49:32.335Z"
+    }
+  ],
+  [
+    "ASET-2026-00037",
+    {
+      "reportId": "ASET-2026-00037",
+      "id": "ASET-2026-00037",
+      "reporterUid": "test-citizen-1791605507032",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791605507032",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:11:47.070Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T04:11:47.090Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T04:11:47.096Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:11:47.102Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:11:47.110Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T04:11:47.122Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T04:11:47.134Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T04:11:47.070Z",
+      "updatedAt": "2026-10-10T04:11:47.134Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T04:11:47.134Z"
+    }
+  ],
+  [
+    "ASET-2026-00038",
+    {
+      "reportId": "ASET-2026-00038",
+      "id": "ASET-2026-00038",
+      "reporterUid": "test-citizen-1791606046609",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791606046609",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:20:46.659Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T04:20:46.676Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T04:20:46.680Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:20:46.685Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:20:46.690Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T04:20:46.695Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T04:20:46.703Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T04:20:46.659Z",
+      "updatedAt": "2026-10-10T04:20:46.703Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T04:20:46.703Z"
+    }
+  ],
+  [
+    "ASET-2026-00039",
+    {
+      "reportId": "ASET-2026-00039",
+      "id": "ASET-2026-00039",
+      "reporterUid": "citizen-test-user",
+      "category": "Pothole (Severe)",
+      "description": "Severe road pothole with recorded video evidence",
+      "location": "Ring Road Carriageway, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": null,
+      "assignedOperatorName": "Unassigned",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "http://localhost:5000/api/evidence/uploads/test_sample_1791606062226.mp4",
+      "submittedBy": "Aarav Sharma",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:21:02.231Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T04:21:02.231Z",
+      "updatedAt": "2026-10-10T04:21:02.231Z"
+    }
+  ],
+  [
+    "ASET-2026-00040",
+    {
+      "reportId": "ASET-2026-00040",
+      "id": "ASET-2026-00040",
+      "reporterUid": "citizen-test-user",
+      "category": "Pothole (Severe)",
+      "description": "Severe road pothole with recorded video evidence",
+      "location": "Ring Road Carriageway, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": null,
+      "assignedOperatorName": "Unassigned",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "http://localhost:5000/api/evidence/uploads/test_sample_1791606099785.mp4",
+      "submittedBy": "Aarav Sharma",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:21:39.791Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T04:21:39.791Z",
+      "updatedAt": "2026-10-10T04:21:39.791Z"
+    }
+  ],
+  [
+    "ASET-2026-00041",
+    {
+      "reportId": "ASET-2026-00041",
+      "id": "ASET-2026-00041",
+      "reporterUid": "citizen-test-user",
+      "category": "Pothole (Severe)",
+      "description": "Severe road pothole with recorded video evidence",
+      "location": "Ring Road Carriageway, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": null,
+      "assignedOperatorName": "Unassigned",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "http://localhost:5000/api/evidence/uploads/test_sample_1791606125343.mp4",
+      "mediaResourceType": "video",
+      "videoDetections": null,
+      "submittedBy": "Aarav Sharma",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:22:05.358Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T04:22:05.358Z",
+      "updatedAt": "2026-10-10T04:22:05.358Z"
+    }
+  ],
+  [
+    "ASET-2026-00042",
+    {
+      "reportId": "ASET-2026-00042",
+      "id": "ASET-2026-00042",
+      "reporterUid": "test-citizen-1791606146859",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791606146859",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "mediaResourceType": "video",
+      "videoDetections": null,
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:22:26.899Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T04:22:26.917Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T04:22:26.922Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:22:26.928Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:22:26.933Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T04:22:26.937Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T04:22:26.946Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T04:22:26.899Z",
+      "updatedAt": "2026-10-10T04:22:26.946Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T04:22:26.946Z"
+    }
+  ],
+  [
+    "ASET-2026-00043",
+    {
+      "reportId": "ASET-2026-00043",
+      "id": "ASET-2026-00043",
+      "reporterUid": "citizen-test-user",
+      "category": "Pothole (Severe)",
+      "description": "Severe road pothole with recorded video evidence",
+      "location": "Ring Road Carriageway, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "Critical",
+      "priority": "Critical",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": null,
+      "assignedOperatorName": "Unassigned",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "http://localhost:5000/api/evidence/uploads/test_sample_1791607377455.mp4",
+      "mediaResourceType": "video",
+      "videoDetections": null,
+      "submittedBy": "Aarav Sharma",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:42:57.468Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T04:42:57.468Z",
+      "updatedAt": "2026-10-10T04:42:57.468Z"
+    }
+  ],
+  [
+    "ASET-2026-00044",
+    {
+      "reportId": "ASET-2026-00044",
+      "id": "ASET-2026-00044",
+      "reporterUid": "test-citizen-1791607391778",
+      "category": "Pothole",
+      "description": "Dangerous deep pothole on MG Road carriageway",
+      "location": "Sector 14, MG Road, New Delhi",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "severity": "High",
+      "priority": "Medium",
+      "status": "Resolved",
+      "verificationStatus": "Verified",
+      "progress": 100,
+      "assignedDepartment": "PWD Road Maintenance Division 4",
+      "assignedOperatorUid": "operator-vikram-1791607391778",
+      "assignedOperatorName": "Vikram Malhotra",
+      "evidenceImage": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=600&auto=format&fit=crop&q=80",
+      "evidenceVideo": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+      "mediaResourceType": "video",
+      "videoDetections": null,
+      "submittedBy": "Aarav Sharma (Test Citizen)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:43:11.833Z",
+          "note": "Complaint logged by citizen.",
+          "progress": 0
+        },
+        {
+          "status": "Verified",
+          "timestamp": "2026-10-10T04:43:11.853Z",
+          "note": "Verified on-site by Er. Rajesh Verma (Department Officer)",
+          "progress": 10
+        },
+        {
+          "status": "Assigned",
+          "timestamp": "2026-10-10T04:43:11.858Z",
+          "note": "Assigned to Vikram Malhotra.",
+          "progress": 10
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:43:11.863Z",
+          "note": "Progress updated to 25%: Repair crew arrived at location and established traffic cone barrier.",
+          "progress": 25
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-10T04:43:11.868Z",
+          "note": "Progress updated to 50%: Bituminous base compaction complete. Applying surface layer.",
+          "progress": 50,
+          "evidenceImage": "https://images.unsplash.com/photo-1541888946425-d0fbb186a5b7?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Awaiting Approval",
+          "timestamp": "2026-10-10T04:43:11.872Z",
+          "note": "Repair completed. Completion notes: Road surface level restoration finished and roller compacted.",
+          "progress": 90,
+          "evidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-10T04:43:11.880Z",
+          "note": "Department approved completion: Confirmed high-quality road patch execution. Department approval granted.",
+          "progress": 100
+        }
+      ],
+      "createdAt": "2026-10-10T04:43:11.833Z",
+      "updatedAt": "2026-10-10T04:43:11.880Z",
+      "assignedTeam": "Rapid Asphalt Repair Unit A",
+      "workInstructions": "Excavate loose asphalt and apply hot-mix asphalt.",
+      "repairEvidenceImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?w=600&auto=format&fit=crop&q=80",
+      "completionNotes": "Road surface level restoration finished and roller compacted.",
+      "resolvedAt": "2026-10-10T04:43:11.880Z"
+    }
+  ],
+  [
+    "ASET-2026-00045",
+    {
+      "reportId": "ASET-2026-00045",
+      "id": "ASET-2026-00045",
+      "scanSessionId": "SCAN-2026-00044",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Rutting Defect",
+      "description": "Road hazard complaint generated from Live GeoAI Scanner session SCAN-2026-00044. 4 unique hazards identified.",
+      "location": "Carriageway Segment (18.4624, 73.8376)",
+      "latitude": 18.46237150170115,
+      "longitude": 73.83760155155514,
+      "severity": "Critical",
+      "priority": "Critical",
+      "dimensions": "70cm × 78cm × 13cm",
+      "volumeM3": 0.071,
+      "estimatedCost": "₹7,200",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Rapid Repair Crew",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00044/evidence/frame_1791607774200_2.jpg",
+      "evidenceVideo": "http://localhost:5000/api/evidence/uploads/sample_pothole_video.mp4",
+      "mediaResourceType": "video",
+      "attachedHazardIds": [
+        "HZ-LIVE-00044-001",
+        "HZ-LIVE-00044-002",
+        "HZ-LIVE-00044-003",
+        "HZ-LIVE-00044-004"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T04:49:57.783Z",
+          "note": "Complaint generated from scan session SCAN-2026-00044. Dimensions: 70cm × 78cm × 13cm. Est Repair Cost: ₹7,200.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T04:49:57.783Z",
+      "updatedAt": "2026-10-10T04:49:57.783Z"
+    }
+  ],
+  [
+    "ASET-2026-00046",
+    {
+      "reportId": "ASET-2026-00046",
+      "id": "ASET-2026-00046",
+      "scanSessionId": "SCAN-2026-00045",
+      "reporterUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "category": "Pothole",
+      "description": "Road hazard complaint generated from Live GeoAI Scanner session SCAN-2026-00045. 4 unique hazards identified.",
+      "location": "Carriageway Segment (18.4641, 73.8356)",
+      "latitude": 18.464146,
+      "longitude": 73.835647,
+      "severity": "Critical",
+      "priority": "Critical",
+      "dimensions": "85cm × 58cm × 14cm",
+      "volumeM3": 0.069,
+      "estimatedCost": "₹7,100",
+      "status": "Submitted",
+      "verificationStatus": "Pending",
+      "progress": 0,
+      "assignedDepartment": "Road Maintenance Department",
+      "assignedOperatorUid": "SkYIJ7uzsvdtv2FjnnY2Vxco0Iy2",
+      "assignedOperatorName": "Aarav Sharma (Citizen Demo)",
+      "assignedTeam": "Rapid Repair Crew",
+      "evidenceImage": "http://localhost:5000/api/evidence/SCAN-2026-00045/evidence/frame_1791608491883_22.jpg",
+      "evidenceVideo": "http://localhost:5000/api/evidence/uploads/sample_pothole_video.mp4",
+      "mediaResourceType": "video",
+      "attachedHazardIds": [
+        "HZ-LIVE-00045-001",
+        "HZ-LIVE-00045-002",
+        "HZ-LIVE-00045-003",
+        "HZ-LIVE-00045-004"
+      ],
+      "submittedBy": "Aarav Sharma (Citizen Demo)",
+      "timeline": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-10T05:01:58.537Z",
+          "note": "Complaint generated from scan session SCAN-2026-00045. Dimensions: 85cm × 58cm × 14cm. Est Repair Cost: ₹7,100.",
+          "actorName": "Aarav Sharma (Citizen Demo)",
+          "actorRole": "FIELD_OPERATOR",
+          "progress": 0
+        }
+      ],
+      "createdAt": "2026-10-10T05:01:58.537Z",
+      "updatedAt": "2026-10-10T05:01:58.537Z"
+    }
+  ]
+]
