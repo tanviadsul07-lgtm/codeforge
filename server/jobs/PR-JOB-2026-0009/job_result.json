@@ -1,0 +1,201 @@
+{
+  "success": true,
+  "hazardCount": 10,
+  "skippedSeconds": 37,
+  "modelDetails": {
+    "name": "YOLOv8 Pothole Detector",
+    "repository": "samdutse/pothole-yolov8",
+    "supportedClasses": [
+      "Pothole"
+    ]
+  },
+  "features": [
+    {
+      "id": "HZ-2026-AI-001",
+      "hazardId": "HZ-2026-AI-001",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.689,
+      "seenCount": 2,
+      "videoTimestamp": "00:01",
+      "timeSec": 2.0,
+      "latitude": 20.000546092483216,
+      "longitude": 73.78055261166543,
+      "evidenceImageFileName": "evidence_001.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_001.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-002",
+      "hazardId": "HZ-2026-AI-002",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.786,
+      "seenCount": 3,
+      "videoTimestamp": "00:02",
+      "timeSec": 2.7,
+      "latitude": 20.00068408521745,
+      "longitude": 73.78069429921449,
+      "evidenceImageFileName": "evidence_002.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_002.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-003",
+      "hazardId": "HZ-2026-AI-003",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.784,
+      "seenCount": 2,
+      "videoTimestamp": "00:03",
+      "timeSec": 3.7,
+      "latitude": 20.000795758004102,
+      "longitude": 73.78080992913988,
+      "evidenceImageFileName": "evidence_003.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_003.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-004",
+      "hazardId": "HZ-2026-AI-004",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.533,
+      "seenCount": 1,
+      "videoTimestamp": "00:04",
+      "timeSec": 4.3,
+      "latitude": 20.00088545823395,
+      "longitude": 73.78090105951131,
+      "evidenceImageFileName": "evidence_004.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_004.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-005",
+      "hazardId": "HZ-2026-AI-005",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Medium",
+      "confidence": 0.267,
+      "seenCount": 1,
+      "videoTimestamp": "00:06",
+      "timeSec": 7.0,
+      "latitude": 20.001449755983156,
+      "longitude": 73.7814669406212,
+      "evidenceImageFileName": "evidence_005.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_005.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-006",
+      "hazardId": "HZ-2026-AI-006",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Medium",
+      "confidence": 0.377,
+      "seenCount": 1,
+      "videoTimestamp": "00:08",
+      "timeSec": 8.7,
+      "latitude": 20.00174990043104,
+      "longitude": 73.78177840440765,
+      "evidenceImageFileName": "evidence_006.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_006.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-007",
+      "hazardId": "HZ-2026-AI-007",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Medium",
+      "confidence": 0.342,
+      "seenCount": 1,
+      "videoTimestamp": "00:09",
+      "timeSec": 9.3,
+      "latitude": 20.001875797670284,
+      "longitude": 73.78191000533079,
+      "evidenceImageFileName": "evidence_007.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_007.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-008",
+      "hazardId": "HZ-2026-AI-008",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "High",
+      "confidence": 0.578,
+      "seenCount": 4,
+      "videoTimestamp": "00:12",
+      "timeSec": 12.3,
+      "latitude": 20.002543474962604,
+      "longitude": 73.78254595164572,
+      "evidenceImageFileName": "evidence_008.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_008.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-009",
+      "hazardId": "HZ-2026-AI-009",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Medium",
+      "confidence": 0.38,
+      "seenCount": 1,
+      "videoTimestamp": "00:15",
+      "timeSec": 15.7,
+      "latitude": 20.0031409396672,
+      "longitude": 73.78317693272427,
+      "evidenceImageFileName": "evidence_009.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_009.jpg"
+    },
+    {
+      "id": "HZ-2026-AI-010",
+      "hazardId": "HZ-2026-AI-010",
+      "hazard": "Pothole",
+      "category": "Pothole",
+      "severity": "Medium",
+      "confidence": 0.287,
+      "seenCount": 1,
+      "videoTimestamp": "00:16",
+      "timeSec": 17.0,
+      "latitude": 20.00341462470239,
+      "longitude": 73.78343724916415,
+      "evidenceImageFileName": "evidence_010.jpg",
+      "evidenceImagePath": "C:\\Users\\jsand\\OneDrive\\Desktop\\fusion26\\server\\jobs\\PR-JOB-2026-0009\\evidence\\evidence_010.jpg"
+    }
+  ],
+  "route": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              73.78,
+              20.0
+            ],
+            [
+              73.781,
+              20.001
+            ],
+            [
+              73.782,
+              20.002
+            ],
+            [
+              73.783,
+              20.003
+            ],
+            [
+              73.784,
+              20.004
+            ]
+          ]
+        },
+        "properties": {
+          "name": "Vehicular Inspection Route Trajectory",
+          "pointsCount": 5
+        }
+      }
+    ]
+  }
+}

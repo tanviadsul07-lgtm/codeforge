@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- White Background with soft rounded rect -->
+  <rect width="64" height="64" rx="16" fill="#FFFFFF"/>
+  <rect width="64" height="64" rx="16" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Outer Shield Path in Primary Blue -->
+  <path d="M32 10L48 16V30C48 40.5 41.2 49.8 32 54C22.8 49.8 16 40.5 16 30V16L32 10Z" fill="#EFF6FF" stroke="#2563EB" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Road Lane Lines in Electric Blue -->
+  <path d="M25 44L29 24" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+  <path d="M39 44L35 24" stroke="#3B82F6" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Dashed Center Line in Cyan -->
+  <path d="M32 26V30" stroke="#06B6D4" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32 36V40" stroke="#06B6D4" stroke-width="2.5" stroke-linecap="round"/>
+  
+  <!-- Small AI Alert Sparkle at Top of Shield -->
+  <circle cx="32" cy="19" r="2.5" fill="#2563EB"/>
+</svg>
