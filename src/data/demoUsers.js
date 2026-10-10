@@ -1,0 +1,35 @@
+export const DEMO_USERS = {
+  citizen: {
+    id: "usr-citizen-01",
+    name: "Aarav Sharma",
+    email: "aarav.sharma@example.com",
+    role: "citizen",
+    roleLabel: "Citizen",
+    phone: "+91 98765 43210",
+    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    department: null,
+    joinedDate: "2025-11-10",
+  },
+  operator: {
+    id: "usr-operator-01",
+    name: "Vikram Malhotra",
+    email: "vikram.m@pathrakshak.gov.in",
+    role: "field-operator",
+    roleLabel: "Field Operator",
+    phone: "+91 98123 45678",
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    department: "Survey & AI Mapping Division",
+    joinedDate: "2025-04-15",
+  },
+  officer: {
+    id: "usr-officer-01",
+    name: "Dr. Rajesh Verma",
+    email: "r.verma@pwd.gov.in",
+    role: "department-officer",
+    roleLabel: "Road Department Officer",
+    phone: "+91 94111 22334",
+    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+    department: "Public Works Department (PWD) - Central Zone",
+    joinedDate: "2024-08-01",
+  }
+};

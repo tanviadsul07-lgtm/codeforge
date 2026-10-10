@@ -1,0 +1,63 @@
+:root {
+  /* Brand Colour Palette */
+  --bg-main: #071522;          /* Deep Midnight */
+  --bg-sidebar: #0D263B;       /* Navy Blue */
+  --bg-topbar: #0D263B;        /* Navy Blue */
+  --bg-card: #123651;          /* Ocean Blue */
+  --bg-soft-blue: #164A6B;     /* Steel Blue */
+  --bg-active: #164A6B;        /* Steel Blue */
+  
+  --background: #071522;
+  --sidebar: #0D263B;
+  --surface: #123651;
+  --border: #164A6B;
+  --border-color: #164A6B;
+  --border-subtle: #0F3048;
+  --border-accent: #12BDF2;
+  
+  --primary: #12BDF2;          /* Electric Cyan */
+  --primary-blue: #12BDF2;     /* Electric Cyan */
+  --primary-hover: #0EA5D9;    /* Hover Cyan */
+  --electric-blue: #12BDF2;
+  --cyan-accent: #45E4F4;      /* Neon Aqua */
+  --accent: #45E4F4;           /* Neon Aqua */
+  --glow-blue: rgba(69, 228, 244, 0.25);
+  
+  --text-primary: #F2F8FC;     /* Ice White */
+  --text-main: #F2F8FC;        /* Ice White */
+  --text-secondary: #91A9BB;   /* Muted Blue-Grey */
+  --text-muted: #647C90;       /* Muted Grey */
+  --text-white: #FFFFFF;
+  
+  /* Status Colors */
+  --status-pending: #F5B942;   /* Pending Verification */
+  --warning: #F5B942;
+  --warning-bg: rgba(245, 185, 66, 0.15);
+  
+  --status-resolved: #38D996;  /* Verified / Resolved */
+  --success: #38D996;
+  --success-bg: rgba(56, 217, 150, 0.15);
+  
+  --status-critical: #FF647C;  /* Critical Hazard */
+  --danger: #FF647C;
+  --danger-bg: rgba(255, 100, 124, 0.15);
+  
+  --info: #12BDF2;
+  --info-bg: rgba(18, 189, 242, 0.15);
+  
+  --shadow-sm: 0 2px 4px 0 rgba(7, 21, 34, 0.4);
+  --shadow-md: 0 4px 12px -1px rgba(7, 21, 34, 0.6), 0 2px 4px -2px rgba(18, 189, 242, 0.1);
+  --shadow-lg: 0 12px 24px -4px rgba(7, 21, 34, 0.8), 0 0 16px rgba(18, 189, 242, 0.2);
+  --shadow-glow: 0 0 20px rgba(18, 189, 242, 0.35);
+  
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+  
+  --sidebar-width: 260px;
+  --topbar-height: 68px;
+  
+  --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
